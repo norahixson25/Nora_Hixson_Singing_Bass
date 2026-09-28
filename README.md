@@ -60,10 +60,4 @@ I created the Github project and I plan to start with purchase orders next.
 
 This is the basis of the project https://maker.pro/arduino/projects/how-to-animate-billy-bass-with-bluetooth-audio-source 
 
-## Project Image
 
-Replace the `hero.png` file in the root of this repository with an image representing your project.
-
-**Keep the filename as `hero.png`.**
-
-This image is used as the project cover image on the AMP Lab website.
