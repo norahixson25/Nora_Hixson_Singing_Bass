@@ -9,7 +9,7 @@
 
 ## Project Overview
 
-I am taking apart a classic Singing Fish and remodeling it with Bluetooth compatiblity, new Ardiuno code and a custom class ab audio amplifier, and a new casing design to fit the addtional components.
+I am taking apart a classic Singing Fish and remodeling it with Bluetooth compatiblity, new Ardiuno code, a custom class ab audio amplifier, and a new casing design to fit the addtional components.
 This will allow the fish to play any song instead of just pre programed ones, and to have a better sound quality. 
 
 ## What I Hope to Learn
