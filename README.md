@@ -1,38 +1,24 @@
 # Project Name
 
-> Replace this title with the name of your project.
+> Singing Bass
 
 ## Project Owner
 
-**Name:** Your Name  
-**Virginia Tech Email:** yourpid@vt.edu
+**Name:** Nora Hixson 
+**Virginia Tech Email:** norahixson25@vt.edu
 
 ## Project Overview
 
-Provide a clear description of what you are building and the overall goal of the project.
-
-Include enough detail for someone unfamiliar with the project to understand what it does and why you are building it.
+I am taking apart a classic Singing Fish and remodeling it with Bluetooth compatiblity, new Ardiuno code and a custom class ab audio amplifier, and a new casing design to fit the addtional components.
+This will allow the fish to play any song instead of just pre programed ones, and to have a better sound quality. 
 
 ## What I Hope to Learn
 
-Describe the technical skills, concepts, or experience you hope to gain from completing this project.
+I hope to gain the skills to design a custom audio amplifier, the soldering skills to add all the components together, and the CAD skills to create a better casing for the fish.
 
 ## Design and Implementation
 
-Document the design of your project as it develops.
-
-This may include:
-
-- Block diagrams
-- Circuit schematics
-- PCB designs
-- CAD models
-- Software architecture
-- Hardware selection
-- Calculations
-- Testing methods
-
-Explain major design decisions and why you made them.
+No design implementation yet.
 
 ## Bill of Materials
 
@@ -40,46 +26,39 @@ Document the major components and materials used for the project.
 
 | Item | Quantity | Estimated Cost | Link |
 |---|---:|---:|---|
-| Component | 1 | $0.00 | Link |
-
-**Estimated Total Cost:** $0.00
+Nothing Purchased yet
 
 ## Timeline and Milestones
 
 Outline the major stages of the project and update them as work progresses.
 
-| Milestone | Target Date | Status |
-|---|---|---|
-| Project planning | Date | Not Started |
-| Initial design | Date | Not Started |
-| Prototype | Date | Not Started |
-| Testing | Date | Not Started |
-| Project completion | Date | Not Started |
+| Project planning | 9/27/2026 | Started |
+| Purchase Materials | Date | Not Started |
+| CAD Design| Date | Not Started |
+| CAD | Date | Not Started |
+| AB Amplifer Design | Date | Not Started |
+| Fish Gutting | Date | Not Started |
+| Bluetooth Assembly | Date | Not Started |
+| Amplifer Assembly | Date | Not Started |
+| Speaker Assembly | Date | Not Started |
+| Ardiuno Code| Date | Not Started |
+| Troubleshooting | Date | Not Started |
+| Finished Model 1 | Date | Not Started |
 
 ## Progress Log
 
 Use this section to document meaningful progress throughout the project.
 
-### YYYY-MM-DD
+### 2026-09-27
 
-Describe what you worked on, what was completed, any problems you encountered, and what you plan to work on next.
+I created the Github project and I plan to start with purchase orders next.
 
 ## Project Files
 
-Organize and document important project files in this repository. Depending on the project, this may include:
-
-- Source code
-- KiCad files
-- Schematics
-- PCB layouts
-- CAD files
-- Datasheets
-- Test results
-- Documentation
 
 ## Useful Links
 
-Add any references, datasheets, documentation, tutorials, or other resources relevant to the project.
+This is the basis of the project https://maker.pro/arduino/projects/how-to-animate-billy-bass-with-bluetooth-audio-source 
 
 ## Project Image
 
