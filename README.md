@@ -32,11 +32,11 @@ Nothing Purchased yet
 
 Outline the major stages of the project and update them as work progresses.
 
-| Project planning | 9/27/2026 | Started |
-| Purchase Materials | Date | Not Started |
+| Project planning | 9/27/2026 | Completed |
+| Purchase Materials | 10/5/2026 | Completed |
 | CAD Design| Date | Not Started |
 | CAD | Date | Not Started |
-| AB Amplifer Design | Date | Not Started |
+| AB Amplifer Design | 10/15/2026 | Started |
 | Fish Gutting | Date | Not Started |
 | Bluetooth Assembly | Date | Not Started |
 | Amplifer Assembly | Date | Not Started |
@@ -53,9 +53,15 @@ Use this section to document meaningful progress throughout the project.
 
 I created the Github project and I plan to start with purchase orders next.
 
+### 2026-10-15
+
+I completed the purchase order awhile ago, but forgot to update the Github.
+I am now currently working on the class AB amplifer, and have created a preliminary design in LTspice this does not include 
+final resistor values as I am still calculating them.
+
 ## Project Files
 
-
+Draft1_of_amp
 ## Useful Links
 
 This is the basis of the project https://maker.pro/arduino/projects/how-to-animate-billy-bass-with-bluetooth-audio-source 
